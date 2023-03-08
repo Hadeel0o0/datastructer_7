@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Q3 {
 
-    static int num, num1;
+    static int   num, num1;
     static ArrayList<Integer> a;
     static ArrayList<Integer> b;
     static ArrayList<Integer> c;
